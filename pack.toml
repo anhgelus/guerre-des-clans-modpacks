@@ -1,0 +1,16 @@
+name = "GuerreDesClans"
+author = "Anhgelus Morhtuuzh"
+version = "0.6.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d41405d35c77195cec94c47d966dbe871cf00d9afb8196b40727c0c24814ba6"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.1"
+
+[options]
+acceptable-game-versions = ["1.19"]
