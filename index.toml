@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "31567ee218c39fef2d6ed91be156d8b76cd49bb71754aa5267111ffbae9bc1db"
+
+[[files]]
+file = "README.md"
+hash = "cf28e42194552bb614fb8309519d8b55b889d09fd4bb4b34ff5b3465048f4536"
+
+[[files]]
+file = "config/illuminations.properties"
+hash = "987d2ade8ea14c9b51905e2ecc60af8ccc0f361b1ac5ba0f98211cda5a8d5878"
+
+[[files]]
 file = "craftpresence/chardata.properties"
 hash = "88ef4be6dcdc536ec8f7a5f5071dc433fcf3b7f581d8fb6f4bba8fbdff4b77f7"
 
@@ -16,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f106ebf489ec22948ec9c92b3870cee068de00fec9114f09ede616d160fa99d8"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "d6cd634f39f675513fbc98dbf8ec2ae93a7ea8bd4d9247e08d61d153e321b22a"
 metafile = true
 
 [[files]]
@@ -76,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "abf0e5c84dc260ae47990e7fd68f2f0d632582ffa535c5dd7dcaff58414a019b"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "4a685ccd6e720cba65641cb9f6baf37e3d38b546dd6adaa4c97bad99daf5b042"
 metafile = true
 
 [[files]]
