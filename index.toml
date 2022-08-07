@@ -6,7 +6,7 @@ hash = "31567ee218c39fef2d6ed91be156d8b76cd49bb71754aa5267111ffbae9bc1db"
 
 [[files]]
 file = "README.md"
-hash = "cf28e42194552bb614fb8309519d8b55b889d09fd4bb4b34ff5b3465048f4536"
+hash = "b51bd6d7519accd295ac49856e63408412fbbc55a89426b1c2c8396cc863db0a"
 
 [[files]]
 file = "config/illuminations.properties"
@@ -36,13 +36,13 @@ hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "15fdaff0cb9342b772aa104d98eb4b116b3df442f689fa607ef6656c66468ffc"
+file = "mods/craftpresence.pw.toml"
+hash = "8309715e3b558a97d338d23855bbd256892d389349d29d2c32f9797d0546b230"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "8309715e3b558a97d338d23855bbd256892d389349d29d2c32f9797d0546b230"
+file = "mods/dcintegration-fabric.pw.toml"
+hash = "7d5d6af4badc83ef36061252f5f2d2bb97e7db7fc87687ee49a4000ab1f6068e"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ab6559c392627be06948d290c10b1af211e0c153b8a333b885e2dc910f18d47f"
 metafile = true
 
 [[files]]

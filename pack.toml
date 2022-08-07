@@ -1,12 +1,12 @@
 name = "GuerreDesClans"
 author = "Anhgelus Morhtuuzh"
-version = "0.6.2"
+version = "0.6.2-server"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "637eb2d81e03044b6e68911ecdda84ebbb701edf6aebdf29199ec539d9c09692"
+hash = "96856bc859087b33a06c4da1d2d112cfe7e221d1cb444429f0713d0594513e96"
 
 [versions]
 fabric = "0.14.9"
