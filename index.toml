@@ -81,6 +81,11 @@ hash = "7befee16152b92859affdb23cf8015c71c6f3cf39f8e544a8af67462595241c7"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
@@ -106,6 +111,11 @@ hash = "242d59152c19a148d3d5b6a0bf46ffb0280e822f90e78b417e9669518bcc1ab5"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "644b77858a6c71d594ea678ffc217026ef2847c253ec32f3fe01e20539947ee8"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "66051b8e41b362d239202cf1458085fca450f9748381fd07ae6adf9b73bd51a9"
 metafile = true
@@ -121,6 +131,11 @@ hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "5aad6894b3578019b24d073b58e4bf87d44e62296bc277bbfd93a34c8cbbda7d"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
@@ -128,4 +143,9 @@ metafile = true
 [[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "0790e241d14cdce3971af0e8c3515a5b42e4be8b031e75b41ad3a0380deb58c2"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "8435b3b8f6ea818725c662770bd60dba13dd868074e9f6ac385e3038e7d69258"
 metafile = true
