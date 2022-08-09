@@ -21,6 +21,11 @@ file = "craftpresence/craftpresence.properties"
 hash = "08ab9e9c69ba3cff19a19a61cf1964d2def6e41ea652f0703cb9794522baf2d8"
 
 [[files]]
+file = "mods/antixray.pw.toml"
+hash = "c81c01bdc32c054757620800d7a2340bbce62d6c78e7404dc8fc9b2e8043eda4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8ba09078563faf653202165d172e3fc3dc60340cc047ca6b72d8dcdcada17e40"
 metafile = true
