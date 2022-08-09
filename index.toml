@@ -36,6 +36,11 @@ hash = "f106ebf489ec22948ec9c92b3870cee068de00fec9114f09ede616d160fa99d8"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "bbef11b5078a543089dbb961604f7b14e236985d5ed38225ce8836da29fbf02c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "bf86b2350fd5a224c4d4b310a2b4d42e13340a222c8d306772e67a90574ee587"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
 metafile = true
 
 [[files]]
